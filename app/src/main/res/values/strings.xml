@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Calculadora IMC</string>
+
+    <string name="text_view" translatable="false">IMC</string>
+
+    <string name="altura" translatable="false">Altura: (ex: 1.78m)</string>
+    <string name="peso_txt" translatable="false">Peso: (ex: 65.8kg)</string>
+    <string name="calcular_BNT" translatable="false">Calcular</string>
+    <string name="imc_tittle" translatable="false">IMC</string>
+</resources>
